@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body>
+
 
 <?php
 echo "<h1>My first PHP script!<h1>";
@@ -10,6 +8,3 @@ $a = array("Alina"=>"21", "Alexa"=>"24", "Ana"=>"18");
 print_r($a)
 
 ?>
-
-</body>
-</html>
