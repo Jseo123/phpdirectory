@@ -37,7 +37,7 @@ switch($op){
         return $a / $b;
         break;
         default:
-        return $a + $b;
+        echo "Op needs to be an operator string";
         break;
 }
 
